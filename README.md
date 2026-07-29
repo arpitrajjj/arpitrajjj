@@ -481,7 +481,7 @@
 [![TryHackMe](https://img.shields.io/badge/TRYHACKME-arpitraj-000000?style=for-the-badge&logo=tryhackme&logoColor=ff0000)](https://tryhackme.com/arpitraj)
 [![Bugcrowd](https://img.shields.io/badge/BUGCROWD-arpitraj-000000?style=for-the-badge&logo=bugcrowd&logoColor=ff6600)](https://bugcrowd.com/arpitraj)
 [![HackerOne](https://img.shields.io/badge/HACKERONE-arpitraj-000000?style=for-the-badge&logo=hackerone&logoColor=9d00ff)](https://hackerone.com/arpitraj)
-[![PGP](https://img.shields.io/badge/PGP-KEY_AVAILABLE-000000?style=for-the-badge&logo=protonmail&logoColor=6d4aff)](mailto:ashomdrugs@proton.me)
+[![PGP](https://img.shields.io/badge/PGP-KEY_AVAILABLE-000000?style=for-the-badge&logo=protonmail&logoColor=6d4aff)](mailto:ashondrugs@proton.me)
 
 </div>
 
